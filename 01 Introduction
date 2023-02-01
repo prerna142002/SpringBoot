@@ -1,0 +1,16 @@
+Java-based framework used to create a micro-services
+
+Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
+
+Spring:
+1. Application framework : Let you build enterprise Java Application.
+2. Programming and configuration model : Create classes and annotations in it.
+3. Infrastructure support
+
+Problems with Spring:
+1. Huge Framework: 
+2. Multiple setup steps: Whole lot of configurations
+3. Multiple configuration steps
+4. Multiple build and deploy steps
+
+And then Sprinboot comes...
