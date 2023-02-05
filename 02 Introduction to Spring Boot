@@ -13,3 +13,16 @@ The main concept behind spring boot is to avoid alot of boilerplate code and con
 A in case of creating a new spring application, we have to write mnay XML configurations, server setting, adding dependencies, etc.
 So, spring boot increase productivity by removing the boilerplate code and minimizing the porgrammer's effort.
 
+Automatically configures the application based on Annotation. add @EnableAutoConfiguration
+
+1. Spring Boot Stater Actuator dependency -> monitor and manage your application.
+2. Spring Boot Stater Security dependency -> Spring Security
+3. Spring Boot Stater Web Dependecny -> Write Rest Endpoints
+4. Spring Boot Starter Thyme Leaf dependency -> Web Application
+5. Spring Boot Starter Test Dependency -> write test cases.
+
+Spring Boot Application:
+The entry point of the Spring Framework is @SpringBootApplication
+
+Component Scan: Scans all the bean and packages declarations when the application initializes. 
+
