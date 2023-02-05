@@ -8,3 +8,8 @@ GRAALVM
 Deliver peak performance with no warm-up time.
 
 SpringBoot scans all the components 
+
+The main concept behind spring boot is to avoid alot of boilerplate code and configuration to imporve evelopment, unit test etc.
+A in case of creating a new spring application, we have to write mnay XML configurations, server setting, adding dependencies, etc.
+So, spring boot increase productivity by removing the boilerplate code and minimizing the porgrammer's effort.
+
