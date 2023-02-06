@@ -1,0 +1,10 @@
+Business Service in Spring are basically singleton.
+Spring creates the instance of this service and then it keeps in the memory (registers the instance)
+
+When we have an input in the resource path then we need to tell the spring by using the @PathVariable annotation.
+ 
+If we have a variable input in another name and we need to send this then :
+@GetMapping("/topics/{foo}") // This will not work as it will map only java
+	public Topic getTopic(@PathVariable("foo") String id) {
+		return topicService.getTopic(id);
+	}
