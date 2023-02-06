@@ -1,0 +1,3 @@
+Resources: Things in your domain.
+In case of a course API topics are the resouces.
+Once we have identified then we can look into the way the consumers can access the resources using different HTTP Methodds.
