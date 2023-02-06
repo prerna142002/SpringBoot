@@ -6,3 +6,5 @@ WHAT HAPPENED WHEN WE STARTED THE SRPING BOOT CLASS:
 2. Starts Spring Application context
 3. Performs class path scan: If we wanted to create a business service then we can add Service Annotation after creating class. Every class has a marker.
 4. Starts Tomcat server
+
+While making RestController we are able to create a JSON request automatically.
