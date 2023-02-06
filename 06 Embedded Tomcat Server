@@ -1,0 +1,4 @@
+1. Convinience
+2. Servlet container config is now application config.
+3. Standalone application
+4. Useful for microservices architecture
