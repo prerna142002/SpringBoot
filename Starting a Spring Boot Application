@@ -1,0 +1,2 @@
+Springboot is a standalone application.
+It does not neeed server to be deployed on. It works by having a class with main method that you can start.
