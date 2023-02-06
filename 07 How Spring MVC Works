@@ -1,0 +1,6 @@
+VIEW TIER:
+Handled by a framework called Spring MVC which is another project in the spring framework umbrella.
+
+Maps requests to responses.
+
+Controller : simple java class which maps a URI and an HTTP method to some functionality.
