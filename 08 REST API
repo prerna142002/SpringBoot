@@ -1,3 +1,9 @@
 Resources: Things in your domain.
 In case of a course API topics are the resouces.
 Once we have identified then we can look into the way the consumers can access the resources using different HTTP Methodds.
+
+GET     /topics       Get all topics
+GET     /topic/id     Gets the topic
+POST    /topics       Create new toic
+PUT     /topics/id    Updates the topic
+DELETE  /topics/id    Deletes the topic
