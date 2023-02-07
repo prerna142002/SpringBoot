@@ -1,5 +1,7 @@
 Starting a Spring Boot App
-1. Spring Initializr
+1. Spring Initializr : https://start.spring.io 
+  We can create the application and download the zip file.
 2. Spring Boot CLI
 3. STS IDE
+
 
