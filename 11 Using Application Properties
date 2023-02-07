@@ -1,0 +1,3 @@
+Customizing the Spring appplication is through the property file -> applicatiom.properties
+The 8080 port is the default property that is configured by default in the servlet.
+
