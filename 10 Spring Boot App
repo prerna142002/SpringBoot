@@ -1,7 +1,13 @@
 Starting a Spring Boot App
 1. Spring Initializr : https://start.spring.io 
   We can create the application and download the zip file.
-2. Spring Boot CLI
+2. Spring Boot CLI :
+   Install and run using java -jar command
+   >> ./spring
+   >> gives the help commands to use for the spring command framwork.
+   >> run // runs the groovy scripts 
+   >> nano.groovy
+   >> 
 3. STS IDE
 
 
