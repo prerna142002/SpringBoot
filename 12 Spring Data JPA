@@ -1,8 +1,14 @@
+The data tier : CRUD Operations
+-------------
+
 JPA stands for Java Persistence API.
+Object - Relational Mapping - SQL Database
+
+Class <-> Table
+Object Relational Mapping maps entity classes into table
+Framework is used to convertion.
 
 Let you do Object - Relational Mapping
 Map entity classes into SQL Tables.
 JPA -> It is an API that let you configure your entity classes into SQL tables and let you map your entity classes into SQL Tables so that when you conenct to the database then you give some kind of 
 metadata so you dont have to do query and then mapping yourself.
-
-Relational Database: 
